@@ -524,7 +524,6 @@ div[class^="devicon"] span{
     padding-left: 20px;
 }
 .timeline-content ul li {
-    margin-bottom: 10px;
     font-size: 0.95em;
     color: #555;
 }
@@ -595,11 +594,11 @@ div[class^="devicon"] span{
 
 .skill {  height: 5px; margin-bottom: 10px; border-radius:5px;}
 
-.backend {width: 92%; background-color: purple;} /* Dark Grey */
-.ml {width: 88%; background-color: #2196F3;} /* Blue */
-.sql {width: 84%; background-color: orange;} /* orange */
-.tableau {width: 84%; background-color: #f44336;} /* Red */
-.django {width: 75%; background-color: #4CAF50;} /* Green */
+.backend {width: 95%; background-color: purple;} /* Dark Grey */
+.ml {width: 89%; background-color: #2196F3;} /* Blue */
+.sql {width: 92%; background-color: orange;} /* orange */
+.tableau {width: 86%; background-color: #f44336;} /* Red */
+.django {width: 81%; background-color: #4CAF50;} /* Green */
 
 
 
