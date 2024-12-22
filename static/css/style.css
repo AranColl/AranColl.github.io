@@ -230,7 +230,7 @@ input:nth-child(3n){
 
 .pfblock {
     background: #f5f5f5;
-	padding: 60px 0 50px;
+	padding-top: 60px;
 }
 
 .pfblock-image {
@@ -282,10 +282,8 @@ input:nth-child(3n){
 }
 
 #myphoto {
-	width: 100%;
     border-radius: 50px;
-    height: 90%;
-
+    max-width: 150px;
 }
 
 .skills {
